@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Lorem ipsum dolor sit amet ipsum",
+    "image": "images/product-food-1.png",
+    "category": "food",
+    "price": 10,
+    "rating": 5
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet ipsum",
+    "image": "images/product-food-2.png",
+    "category": "food",
+    "price": 10,
+    "rating": 5
+  },
+  {
+    "title": "Lorem ipsum dolor sit amet ipsum",
+    "image": "images/product-forest-1.png",
+    "category": "forest",
+    "price": 10,
+    "rating": 5
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Red Fox",
+    "image": "images/fox-1.jpg",
+    "category": "forest",
+    "price": 80,
+    "rating": 2,
+    "amount": 4
+  },
+  {
+    "id": 2,
+    "title": "Arctic Fox",
+    "image": "images/fox-2.jpg",
+    "category": "office",
+    "price": 30,
+    "rating": 5,
+    "amount": 5
+  },
+  {
+    "id": 3,
+    "title": "Fennec Fox",
+    "image": "images/fox-3.jpg",
+    "category": "foxkid",
+    "price": 60,
+    "rating": 3,
+    "amount": 6
+  },
+  {
+    "id": 4,
+    "title": "Kit Fox",
+    "image": "images/fox-4.jpg",
+    "category": "foxkid",
+    "price": 75,
+    "rating": 4,
+    "amount": 8
+  },
+  {
+    "id": 5,
+    "title": "Swift Fox",
+    "image": "images/fox-5.jpg",
+    "category": "forest",
+    "price": 130,
+    "rating": 4,
+    "amount": 3
+  },
+  {
+    "id": 6,
+    "title": "Bengal Fox",
+    "image": "images/fox-6.jpg",
+    "category": "other",
+    "price": 170,
+    "rating": 5,
+    "amount": 10
+  },
+  {
+    "id": 7,
+    "title": "Corsac Fox",
+    "image": "images/fox-7.jpg",
+    "category": "forest",
+    "price": 200,
+    "rating": 4,
+    "amount": 7
+  },
+  {
+    "id": 8,
+    "title": "Cape Fox",
+    "image": "images/fox-8.jpg",
+    "category": "foxkid",
+    "price": 220,
+    "rating": 3,
+    "amount": 4
+  }
+]
